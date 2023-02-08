@@ -1,0 +1,5 @@
+Mehmet:A
+Ahmet:B
+Ali:F
+Veli was missing during the exam.
+Mustafa was missing during the exam.
